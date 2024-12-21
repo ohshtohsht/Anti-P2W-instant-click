@@ -2,5 +2,3 @@
  
 T to activate
 Y to deactivate
- 
-only use when p2w is active and disable if ball doesnt go to u
